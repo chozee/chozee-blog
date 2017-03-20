@@ -1,5 +1,0 @@
-yout: default
-　　title: Chozee's Blog
-　　---
-　　<h2>{{ page.title }}</h2>
-　　<p>最新文章</p>
